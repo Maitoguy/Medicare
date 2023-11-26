@@ -1,0 +1,93 @@
+
+
+#home {
+    background-color: #ECE3CE;
+    padding: 20px;
+    text-align: center;
+}
+
+#welcome {
+    background-color: #739072;
+    color: #ECE3CE;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#welcome h4 {
+    margin: 0;
+}
+
+#welcome a {
+    color: #ECE3CE;
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: 1px solid #ECE3CE;
+    border-radius: 5px;
+}
+
+#welcome a:hover {
+    background-color: #4F6F52;
+}
+
+#add-medicine a {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ECE3CE;
+    border-radius: 5px;
+}
+
+#add-medicine a:hover {
+    background-color: #4F6F52;
+}
+
+#medicineTable {
+    background-color: #4F6F52;
+    color: #ECE3CE;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #3A4D39;
+}
+
+td.delete-button button {
+    background-color: #739072;
+    color: #ECE3CE;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+td.delete-button button:hover {
+    background-color: #3A4D39;
+}
+
+#userDetails {
+    margin-top: 20px;
+}
+
+#userDetails h2 {
+    color: #3A4D39;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
